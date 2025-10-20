@@ -1,0 +1,28 @@
+Project 2: Character Frequency and Complexity Analyzer
+
+Goal: Measure how “complex” a writing sample is.
+
+Concepts Used:
+Dictionaries, string operations, loops, conditionals, sorting tuples.
+
+Task:
+
+Read a .txt file.
+
+Compute:
+
+Frequency of each character (ignore case).
+
+Average word length.
+
+Most frequent 10 letters.
+
+Compute a complexity score = (average word length × number of unique words) ÷ 100
+
+Output all metrics in a readable format.
+
+Example Output:
+Average word length: 5.3
+Unique words: 870
+Top 10 letters: e, t, a, o, n, s, i, r, h, l
+Complexity score: 46.11
